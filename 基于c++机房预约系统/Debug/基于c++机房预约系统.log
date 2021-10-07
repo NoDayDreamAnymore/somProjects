@@ -1,0 +1,5 @@
+﻿  teacher.cpp
+F:\VS项目\基于c++机房预约系统\基于c++机房预约系统\teacher.cpp(49,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\VS项目\基于c++机房预约系统\基于c++机房预约系统\teacher.cpp(95,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\VS项目\基于c++机房预约系统\基于c++机房预约系统\teacher.cpp(120,29): warning C4018: “<=”: 有符号/无符号不匹配
+  基于c++机房预约系统.vcxproj -> F:\VS项目\基于c++机房预约系统\Debug\基于c++机房预约系统.exe
